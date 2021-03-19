@@ -1,18 +1,28 @@
-# Equity Porftolios
-* Cash Equity
-* Futures
-* Options
-* Exotics
+# Equity 
+* Cash Equity - 
+* Futures - 
+* Options - 
+* Exotics - 
 
 
-# Credit Porftolios
-* Cash Bonds() -
-* Munis -
+# Credit 
+
+* Corp Bonds IG -
+* High Yield - 
+* Municipal -
 * Sovereign - 
-* Junk - 
+* CDS Index - 
+* CDS Single Name - 
 
-| Tables        | Are           | Cool  |
+
+# FX 
+* Spot -
+* FX Forwards -
+* Options - 
+
+
+| Identifier    | Asset Class   | Value |
 | ------------- |:-------------:| -----:|
-| AMC           | right-aligned | $1600 |
-| GLC           | centered      |   $12 |
-| HTV           | are neat      |    $1 |
+| AMC           | EQ            | $1600 |
+| GLC           | CR            |   $12 |
+| HTV           | CO            |  $100 |
