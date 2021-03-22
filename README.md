@@ -8,9 +8,9 @@
 # Credit 
 
 * Corp Bonds IG -
-* High Yield - 
-* Municipal -
-* Sovereign - 
+* High Yield Bonds- 
+* Municipal Bonds -
+* Sovereign Bonds - 
 * CDS Index - 
 * CDS Single Name - 
 
