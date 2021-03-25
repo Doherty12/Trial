@@ -1,24 +1,32 @@
 # Equity 
-* Cash Equity - 
-* Futures - 
-* Options - 
-* Exotics - 
-
+* Cash Equity - Sector
+* Futures - Exchange
+* Options - American,European
+* Exotics - Basket
 
 # Credit 
-
-* Corp Bonds IG -
+* Corp Bonds IG - 
 * High Yield Bonds- 
 * Municipal Bonds -
 * Sovereign Bonds - 
 * CDS Index - 
 * CDS Single Name - 
 
-
 # FX 
 * Spot -
 * FX Forwards -
 * Options - 
+
+# Commodities 
+* Spot -
+* FX Forwards -
+* Options - 
+
+# Rates 
+* Spot -
+* Swap, Forwards, Bonds-
+* Caps, Floors, Collars - 
+
 
 
 | Identifier    | Asset Class   | Value |
